@@ -1,4 +1,4 @@
-# LLM-Powered-Email-Classification
+# LLM-Powered_Email_Classification_and_Response_System_for_Fashion_Retail
 A proof-of-concept application to intelligently process email order requests and customer inquiries using GPT-4
 
 ## Features
